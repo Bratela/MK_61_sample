@@ -45,6 +45,6 @@ Y2 =  4 ХП3
 
 Start program with в/о and с/п
 
-end get result  7.2801098
+and get result  7.2801098
 
 ![Result](result.jpg)

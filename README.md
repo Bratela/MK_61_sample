@@ -33,13 +33,13 @@ Exit from programming mode F АВТ
 
 Entering data to calculator
 
-X1 =  1 XП1
+X2 =  1 XП1
 
-X2 =  8 XП2
+X1 =  8 XП2
 
-Y1 =  2 ХП3
+Y2 =  2 ХП3
 
-Y2 =  4 ХП4
+Y1 =  4 ХП4
 
 Start program with в/о and с/п
 
